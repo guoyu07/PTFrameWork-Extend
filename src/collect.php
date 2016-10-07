@@ -1,7 +1,6 @@
 <?php
 namespace ptcms\extend;
 
-use pakey\tool\Http;
 
 class Collect{
     public static function getContent($data)

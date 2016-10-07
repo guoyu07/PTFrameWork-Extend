@@ -1,7 +1,7 @@
 {
-    "name": "ptcms/ptframework",
-    "description": "PTCMS Framework",
-    "homepage": "https://github.com/pakey/PTFrameWork",
+    "name": "ptcms/ptframework-extend",
+    "description": "PTCMS Framework Extend",
+    "homepage": "https://github.com/pakey/PTFrameWork-Extend",
     "license": "MIT",
     "authors": [
         {

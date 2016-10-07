@@ -1,7 +1,6 @@
 <?php
 
 namespace ptcms\extend;
-use pakey\tool\Http;
 
 /**
  * @Author: 杰少Pakey
